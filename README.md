@@ -4,8 +4,6 @@
 **Authors:** Nikita Jain, Anish Pai, Anudari Jamsran
 **Output:** PDF report
 
----
-
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -52,7 +50,7 @@ SDG-Final-Project/
 ├── country_codes.csv               # Country metadata including LLDC and SIDS classification
 ├── country_indicators.csv          # Country indicators on education, labor, health, and women’s empowerment
 ├── sdr_fd5e4b5a.csv                # SDG scores dataset
-├── images/                         # Directory for plots and visualizations
+├── Visualizations/                         # Directory for plots and visualizations
 └── README.md                       # Project description and instructions
 ```
 
