@@ -1,8 +1,7 @@
 # SDG-Final-Project
 
-**Title:** UNICEF Project Exploration – STA130 Winter 2024
-**Authors:** Nikita Jain, Anish Pai, Anudari Jamsran
-**Output:** PDF report
+## UNICEF Project Exploration – STA130 Winter 2024
+### Authors: Nikita Jain, Anish Pai, Anudari Jamsran
 
 ## Table of Contents
 
