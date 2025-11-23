@@ -1,6 +1,6 @@
 # SDG Final Project
 
-## UNICEF Project Exploration – STA130 Winter 2024
+## UNICEF Project Exploration – Winter 2024
 ### Authors: Nikita Jain, Anish Pai, Anudari Jamsran
 
 ## Table of Contents
