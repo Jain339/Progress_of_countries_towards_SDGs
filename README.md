@@ -3,17 +3,6 @@
 ## UNICEF Project Exploration – Winter 2024
 ### Authors: Nikita Jain, Anish Pai, Anudari Jamsran
 
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Research Questions](#research-questions)
-3. [Project Structure](#project-structure)
-4. [Data Overview](#data-overview)
-5. [Modeling & Analysis](#modeling--analysis)
-6. [Visualizations](#visualizations)
-7. [Installation & Usage](#installation--usage)
-8. [Citations](#citations)
-
 ## Project Overview
 
 The project analyzes development progress toward the UN Sustainable Development Goals (SDGs) by comparing landlocked developing countries (LLDCs) and small island developing states (SIDS). Using publicly available datasets from the UN, the study evaluates differences in economic growth, access to clean water, and gender equality outcomes between these two country types.
