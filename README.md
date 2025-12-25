@@ -1,7 +1,4 @@
-# SDG Final Project
-
-## UNICEF Project Exploration – Winter 2024
-### Authors: Nikita Jain, Anish Pai, Anudari Jamsran
+# UNICEF Project Exploration – Winter 2024
 
 ## Project Overview
 
